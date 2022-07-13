@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 -->
 
-🔭 I’m currently working on Grupo Salinas
+🔭 I’m currently working on TCS - Tata Consultancy Services
 🌱 I’m currently learning React Native
-👯 I’m looking to collaborate on ...
+👯 I’m looking to collaborate on FullStack Projects
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luis-enrique-villarreal-chapuli-b239b5110) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/4738920) 
